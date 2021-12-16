@@ -1,0 +1,22 @@
+
+/* ===============preloader function============== */
+#preloader{
+    background: #ebf5fc url(./Videos/loader.gif) no-repeat center center;
+    background-size: 400px;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index: 2000;
+}
+#preloader::after{
+    content: "Loading...";
+    color: red;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+/* =============X========preloader function============X======== */

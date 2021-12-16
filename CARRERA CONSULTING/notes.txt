@@ -1,0 +1,21 @@
+the website is under construction
+almost finished
+1. needs debugging and changing background image and making it responsive and smooth to work and interact with it
+2. Every color and button hover effects needs to change and check
+3. Needs to convert it into russian language and english
+4. Finally last checking process 
+
+
+
+
+1. formcarry
+2. formspree
+
+
+1. email notification
+
+
+
+2. live chatting
+tawk.to
+jivochat
